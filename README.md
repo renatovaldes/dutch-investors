@@ -1,4 +1,4 @@
-Dutch seed investors
+Active Dutch seed investors
 ===============
 Amsterdam is slowly growing a startup ecosystem. Young Dutch entrepreneurs are building their first companies. Startup machines like [Startup Bootcamp](http://www.startupbootcamp.org/accelerator/amsterdam.html) and [Rockstart](http://rockstart.com) attract talent from all over the world and grow strong startup networks. Seasoned entrepreneurs take newbies under their wings and push them to do better. Extremely driven entrepreneurs sharing their mistakes, best practices, and motivate eachother when things get rough. More and more startups in Amsterdam dare to think big.
 
@@ -6,15 +6,18 @@ Meeting these bright founders and hearing them out on their bold ideas and plans
 
 We hope this living document can help to shine some light on smart seed stage venture capital available to startups in The Netherlands. By listing *active* seed investors and their most *recent* deals (2012-now), we can help early stage startups to get an understanding of seed funding in pretty little Dutch ecosystem and point them in the right direction for stronger introductions. 
 
-We need to your help to draw this picture. Send us your comments or even better, contribute to this repository.
+We need to your help to draw [this picture](http://dutch-investors.silk.co). Send us your comments or even better, contribute to this repository.
 
+***
+
+####[Browse this list as a beautiful collection on Silk](http://dutch-investors.silk.co)  
+*Updated by [@renn](http://twitter.com/renn), [@salar](http://twitter.com/salar), and [@pveugen](http://twitter.com/pveugen) based on contributions this repository.*
+
+***
 
 ## Active seed investors
 
 Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction.  Please contribute: [send me a mail](mailto:paul@human.co) or create a pull request.
-
-**[Browse this list as collection on Silk](http://dutch-investors.silk.co)**  
-*Updated regularly, based on contributions in this repository.*
 
 
 #### Boralis
