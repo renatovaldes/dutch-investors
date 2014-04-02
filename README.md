@@ -84,4 +84,6 @@ Dutch investors who participated in recent (2012-now) seed stage deals. Often pr
 
 ## Further reading
 
+* **[Browse this list as collection on Silk](http://dutch-investors.silk.co)**.  
+*Updated regularly based on this repository.*
 * 'Practical tips on Fundraising in The Netherlands' by [@renn](http://twitter.com/renn) - https://medium.com/p/babb6e9e7b73
