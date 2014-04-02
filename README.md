@@ -1,6 +1,5 @@
 Dutch seed investors
 ===============
-## Intro
 Amsterdam is slowly growing a startup ecosystem. Young Dutch entrepreneurs are building their first companies. Startup machines like [Startup Bootcamp](http://www.startupbootcamp.org/accelerator/amsterdam.html) and [Rockstart](http://rockstart.com) attract talent from all over the world and grow strong startup networks. Seasoned entrepreneurs take newbies under their wings and push them to do better. Extremely driven entrepreneurs sharing their mistakes, best practices, and motivate eachother when things get rough. More and more startups in Amsterdam dare to think big.  
 Meeting these bright founders and hearing them out on their bold ideas and plans to raise their first seed funding, we often feel a big disconnect between the perception of available venture capital and the current investment landscape in Amsterdam. Their shortlist of investors often only include the few Dutch funds that have a very limited dealflow and barely do any seed funding. 
 
