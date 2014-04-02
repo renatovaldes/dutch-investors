@@ -10,7 +10,7 @@ We need to your help to draw this picture. Send us your comments or even better,
 
 ## Active seed investors
 
-Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction. Please contribute: [send me a mail](paul@human.co) or create a pull request.
+Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction. Please contribute: [send me a mail](mailto:paul@human.co) or create a pull request.
 
 
 #### Boralis
