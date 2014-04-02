@@ -10,10 +10,10 @@ We need to your help to draw this picture. Send us your comments or even better,
 
 ## Active seed investors
 
-Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction. 
+Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction. Please contribute: [send me a mail](paul@human.co) or create a pull request.
 
 
-### Boralis
+#### Boralis
 **Experience:** Funda, Zomoto, Auto.nl  
 **Recent deals:**  Springest (2012), Human (2013)  
 **Investment:** 25-100k  
@@ -21,49 +21,49 @@ Dutch investors who participated in recent (2012-now) seed stage deals. Often pr
 **Angel.co:** https://angel.co/boralis  
 
 
-### Floris Rost van Tonningen
+#### Floris Rost van Tonningen
 **Experience:** Hyves, IEX  
 **Recent deals:**  Springest (2012), Silk (2012), Ace & Tate (2013), Nouncy (2013)  
 **Investment:** 30-150k  
 **Angel.co:** https://angel.co/florisrost  
 
 
-### Koen Bok
+#### Koen Bok
 **Experience:** Sofa, Facebook, Podium  
 **Recent deals:** Human (2013), Karma (2013)   
 **Investment:** 10-25k  
 **Angel.co:** http://angel.co/koenbok  
 
 
-### Maarten Beucker Andreae
+#### Maarten Beucker Andreae
 **Experience:** 2ehands.be, TTY  
 **Recent deals:**  Zeef (2013), Nouncy (2013)  
 **Investment:** Unknown  
 **Angel.co:** https://angel.co/beuck
 
 
-### Michael Kinsbergen 
+#### Michael Kinsbergen 
 **Experience:** Nedstat (Comscore), FC Ajax    
 **Recent deals:** Human (2013)     
 **Investment:** 10-50k  
 **Angel.co:** https://angel.co/mkinsbergen   
 
 
-### Patrick Kerssemakers
+#### Patrick Kerssemakers
 **Experience:** Fonq  
 **Recent deals:**  Springest (2012)  
 **Investment:** Unknown  
 **Angel.co:** https://angel.co/pkerssemakers  
 
 
-### Sander van der Blonk
+#### Sander van der Blonk
 **Experience:** PostNL, aFrogleap  
 **Recent deals:**  Gibbon (2013), 3D Hubs (2013)  
 **Investment:** 100-150k  
 **Angel.co:** https://angel.co/sander-van-der-blonk
 
 
-### Sanoma Ventures
+#### Sanoma Ventures
 **Experience:** Sanoma  
 **Recent deals:**  VirtuaGym (2013), Scoupy (2013), Wappzapp (2013), Peerby (2013), Fosbury (2013), Springest (2014)  
 **Investment:** 100k-1.5M+ (~25% seed deals)  
@@ -71,7 +71,7 @@ Dutch investors who participated in recent (2012-now) seed stage deals. Often pr
 **Angel.co:** https://angel.co/vitulum-ventures
 
 
-### Vitulum Ventures
+#### Vitulum Ventures
 **Experience:** Mconomy, Indivirtual, Exact  
 **Recent deals:**  Earlydoc (2012), Pastbook (2012), Karma (2013), Human (2013), Gibbon (2013), Nouncy (2013)  
 **Investment:** 25-150k  
