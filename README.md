@@ -73,7 +73,7 @@ Dutch investors who participated in recent (2012-now) seed stage deals. Often pr
 
 #### Vitulum Ventures
 **Experience:** Mconomy, Indivirtual, Exact  
-**Recent deals:**  Earlydoc (2012), Pastbook (2012), Karma (2013), Human (2013), Gibbon (2013), Nouncy (2013)  
+**Recent deals:**  Earlydoc (2012), Pastbook (2012), Karma (2013), Wercker (2013), Human (2013), Gibbon (2013), Nouncy (2013)  
 **Investment:** 25-150k  
 **Angel.co:** https://angel.co/vitulum-ventures
 
