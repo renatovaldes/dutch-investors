@@ -13,8 +13,7 @@ We need to your help to draw this picture. Send us your comments or even better,
 Dutch investors who participated in recent (2012-now) seed stage deals. Often pre-revenue and based on team, product, and early traction. Please contribute: [send me a mail](mailto:paul@human.co).
 
 
-Moved this list to Silk.co:
-http://dutch-investors.silk.co/
+**http://dutch-investors.silk.co**
 
 
 
