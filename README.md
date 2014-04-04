@@ -84,6 +84,12 @@ Dutch investors who participated in recent (2012-now) seed stage deals. Often pr
 **Investment:** 25-150k  
 **Angel.co:** https://angel.co/vitulum-ventures
 
+#### Jan-Joost Rueb 
+**Experience:** eBuddy, Arbinet   
+**Recent deals:** Roomlr (2013), Zazzy (2014)      
+**Investment:** 25-50k  
+**Angel.co:** https://angel.co/jan-joost-rueb 
+
 
 
 ## Further reading
